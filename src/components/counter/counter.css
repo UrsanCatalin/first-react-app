@@ -1,0 +1,25 @@
+.counter-container {
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: fit-content;
+    margin: 1rem;
+    padding: 0.5rem;
+    font-size: 24px;
+}
+
+.counter-display {
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin: 0.2rem;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+.red {
+    background-color: darkred;
+    color: white;
+}
+
+.counter-container button {
+    font-size: 24px;
+}
